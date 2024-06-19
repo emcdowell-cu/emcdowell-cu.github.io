@@ -1,8 +1,8 @@
+---
 layout: post
 title: "Project Proposal"
 date: 2024-06-06 13:00:00 -0000
-
-<<<<<<< HEAD
+---
 
 #### Vision Statement
 
