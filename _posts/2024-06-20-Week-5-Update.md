@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week 5 Update"
-date: 2024-06-20 00:01:00 -0000
+date: 2024-09-20 00:01:00 -0000
 ---
 
 ### What did I do last week?
